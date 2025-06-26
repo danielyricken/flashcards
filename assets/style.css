@@ -1,12 +1,12 @@
 :root {
    --text-color: #DBE4EF;
-   --card-front-color: #144480;
-   --card-back-color: #00F4BF;
+   --card-front-color: #236fcc;
+   --card-back-color: #195daa;
 }
 
 
 body {
-   background: url('img/fundo.jpg');
+   background: url('img/fundo-slider-home-azul.jpg');
    font-family: Bai Jamjuree;
 }
 
