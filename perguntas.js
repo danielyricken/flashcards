@@ -1,8 +1,9 @@
-criaCartao(
-    'CIÊNCIAS'
-    'Como é feita a fotossintese?'
-    'Pelo sol'
-)
+ function criaCartao(categoria, pergunta, resposta){
+ //   'CIÊNCIAS'
+   // 'Como é feita a fotossintese?'
+ //   'Pelo sol'
+ console
+}
 
 criaCartao(
     'PROGRAMAÇÃO'
@@ -17,7 +18,7 @@ criaCartao(
 )
 
 criaCartao(
-    
+
 
 
 )
